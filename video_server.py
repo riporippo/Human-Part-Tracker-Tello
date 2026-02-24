@@ -1,3 +1,4 @@
+# このプログラムはホストPC側で実行します。
 import socket
 import cv2
 import numpy as np
