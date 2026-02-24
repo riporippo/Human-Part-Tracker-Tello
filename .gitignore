@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+.env
+
+# Logs and Data
+received_logs/
+reeceived_logs/
+logs/
+*.log
+
+# Models and Binaries
+models/*.hef
+*.whl
+result.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
